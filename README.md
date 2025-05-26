@@ -21,7 +21,7 @@ This repo contains a **from-scratch** implementation of **Linear Regression** in
 - [🛠️ Tools & Tech Stack](#️-tools--tech-stack)  
 - [🖼️ Results & Visuals](#️-results--visuals)  
 - [⚙️ How to Run](#️-how-to-run)  
-- [📫 Contact & License](#-contact--license)  
+- [📫 Contact & License](#-contact)  
 
 ---
 
@@ -132,3 +132,22 @@ pip install numpy pandas matplotlib
 
 # Run the script
 python MultipleLinearRegression/MultipleLinearRegression.py
+```
+---
+
+## 📫 Contact
+
+**Have questions or feedback?**
+
+- 👤 **Name:** Apurv Sardana  
+- 📧 **Email:** [apurvsardana1@gmail.com](mailto:apurvsardana1@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/apurv-sardana](https://linkedin.com/in/apurv-sardana)  
+- 💻 **GitHub:** [github.com/ApurvSardana](https://github.com/ApurvSardana)
+
+---
+
+
+# THANKS! HAVE A NICE DAY😊
+
+---
+

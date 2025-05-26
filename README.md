@@ -21,7 +21,7 @@ This repo contains a **from-scratch** implementation of **Linear Regression** in
 - [🛠️ Tools & Tech Stack](#️-tools--tech-stack)  
 - [🖼️ Results & Visuals](#️-results--visuals)  
 - [⚙️ How to Run](#️-how-to-run)  
-- [📫 Contact & License](#-contact)  
+- [📫 Contact](#-contact)  
 
 ---
 

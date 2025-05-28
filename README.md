@@ -35,7 +35,7 @@ Find the best-fit linear function that maps multiple input variables to a single
 
 | Feature                             | Type     | Description                                        |
 |-------------------------------------|----------|----------------------------------------------------|
-| 🎓 Hours Studied                    | Numeric  | Total study hours per student                      |
+| 🎓 Hours Studied                    | Numeric  | Average study hours in a day                     |
 | 📝 Previous Scores                  | Numeric  | Scores obtained in prior tests                     |
 | 💤 Sleep Hours                      | Numeric  | Average daily sleep hours                          |
 | 📄 Sample Question Papers Practiced | Numeric  | Number of practice papers completed                |
